@@ -2,7 +2,10 @@
 
 > Виртуальный администратор для записи клиентов на маникюр, педикюр и эпиляцию. Работает 24/7 в Telegram.
 
----
+![Скриншот1 к проекту] (https://github.com/alexandra-vv/ai_assistant_beauty_salon/blob/main/%E2%80%8E%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D0%B0%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20Onyx.jpg?raw=true)
+![Скриншот2 к проекту] (https://github.com/alexandra-vv/ai_assistant_beauty_salon/blob/main/%E2%80%8E%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D0%B0%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20Onyx1.jpg?raw=true)
+![Скриншот3 к проекту](https://github.com/alexandra-vv/ai_assistant_beauty_salon/blob/main/%E2%80%8E%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D0%B0%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20Onyx2.jpg?raw=true)
+![Скриншот4 к проекту](https://github.com/alexandra-vv/ai_assistant_beauty_salon/blob/main/%E2%80%8E%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D0%B0%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20Onyx3.jpg?raw=true)
 
 ## 📋 О проекте
 
